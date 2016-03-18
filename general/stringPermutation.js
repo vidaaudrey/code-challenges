@@ -19,7 +19,6 @@ function stringPermutation(str) {
         });
         result = result.concat(subResult)
     });
-
     return result;
 }
 
